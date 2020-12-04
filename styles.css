@@ -1,0 +1,151 @@
+nav {
+  text-align: center;
+}
+
+
+#nav {
+  font-size: smaller;
+  list-style-type: none;
+  background-color: #b3abd1;
+  overflow: hidden;
+  padding: 10px;
+}
+li.navi {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 1em;
+}
+li a.bar {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+}
+li a.bar:hover {
+  background-color: #f1e6ff;
+}
+a {
+  color: navy;
+}
+
+html {
+  font-family: 'Poppins';;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px; /* width of container */
+  height: 300px; /* height of container */
+  object-fit: cover;
+  object-position: 20% 10%;
+}
+
+.story {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px; /* width of container */
+  height: 500px; /* height of container */
+  object-fit: cover;
+  object-position: 50% 10%;
+}
+
+.blurb {
+  width: 700px; /* width of container */
+  text-align: center;
+}
+
+.design {
+  text-align: center;
+}
+
+#links {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+}
+
+#root {
+  text-align: center;
+}
+
+#topBar {
+  height: 70px;
+  position: relative;
+  margin: 1em;
+}
+
+#name {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  left:0;
+  font-size: 40px;
+}
+
+#icontainer {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  right:0;
+  padding-top: 35px;
+}
+
+.icons {
+  display: inline;
+  margin: 1em;
+  float: right;
+}
+
+.icon {
+  color: black;
+}
+
+
+.etc {
+  display: inline-block;
+  vertical-align: middle;
+  width: 550px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.description {
+  text-align: left;
+}
+
+.list {
+  text-align: left;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  background-color: black;
+}
+
+.twitter {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px; /* width of container */
+  height: 300px; /* height of container */
+  object-fit: cover;
+  object-position: 40% 10%;
+}
+
+#twt {
+  text-align: center;
+}
+
+#eku {
+  width: 700px;
+}
